@@ -19,5 +19,6 @@ Spring Boot** with a knowledge of **Symfony, Laravel** and **PHP/Symfony-based D
   <a href="https://drupal.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal" width="40" height="50"/> </a> 
   <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://miro.medium.com/max/724/1*5QD8DKhOjRe-gcYjozlLNQ.png" alt="tailwind css" width="40" height="40"/> </a> 
+   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/3d040f7f-9ee5-4eff-975f-4d7f89c71974.svg" alt="Intellije" width="40" height="40"/> </a> 
   </p>
 
